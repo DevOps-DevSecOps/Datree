@@ -1,0 +1,8 @@
+datree test KUBERNETES_FILE_NAME.yaml
+datree test FOLDER_NAME/*.yaml
+
+[Authenticating - Datree CLI connects to account using an token, It store the authentication details in "~/.datree/config.yaml" file.]
+datree config set token TOKEN_VALUE
+
+[To disable the Datree CLI account connection, don't want scans to communicate with Datree's servers.]
+datree config set offline local
