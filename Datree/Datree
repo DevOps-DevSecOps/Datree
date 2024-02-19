@@ -1,0 +1,3 @@
+Datree allows you to scan Kubernetes objects for misconfigurations.
+It preventing Kubernetes misconfigurations using Datree.
+Datree is a static code analysis tool for kubernetes files.
