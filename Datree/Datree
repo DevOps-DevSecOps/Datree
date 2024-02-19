@@ -1,3 +1,13 @@
-Datree allows you to scan Kubernetes objects for misconfigurations.
+Datree allows you to scan Kubernetes and Helm objects for misconfigurations.
 It preventing Kubernetes misconfigurations using Datree.
 Datree is a static code analysis tool for Kubernetes files, Helm files.
+
+There are different ways to install Datree.
+https://hub.datree.io/
+
+[Integrations]
+https://hub.datree.io/integrations
+● Kubectl Plugin
+https://github.com/datreeio/kubectl-datree
+● Helm Plugin
+https://github.com/datreeio/helm-datree
