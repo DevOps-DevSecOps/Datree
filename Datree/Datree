@@ -11,3 +11,13 @@ https://hub.datree.io/integrations
 https://github.com/datreeio/kubectl-datree
 ● Helm Plugin
 https://github.com/datreeio/helm-datree
+
+[CI/CD]
+● GitHub Actions
+https://hub.datree.io/cicd-examples/github-workflow
+● GitLab
+https://hub.datree.io/cicd-examples/gitLab-ci-cd
+● Jenkins Pipeline
+https://hub.datree.io/cicd-examples/jenkins-pipeline
+● Azure Pipeline
+https://hub.datree.io/cicd-examples/azure-pipelines
